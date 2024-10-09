@@ -1,3 +1,4 @@
 [submodule "zedzee_vulkan_triangle"]
 	path = zedzee_vulkan_triangle
 	url = git@github.com:zedzee37/zedzee_vulkan_triangle.git
+    branch = main
